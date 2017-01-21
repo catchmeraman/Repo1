@@ -1,10 +1,1 @@
- Volume in drive C has no label.
- Volume Serial Number is B672-335F
-
- Directory of C:\Users\rchandna\Desktop\myprojectgit
-
-21-01-2017  14:21    <DIR>          .
-21-01-2017  14:21    <DIR>          ..
-21-01-2017  14:21                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  115,285,282,816 bytes free
+change 1
